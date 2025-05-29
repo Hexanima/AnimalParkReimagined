@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnimalParkReimagined")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+136f1c12737abb020a6666ecc578225aa164867b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9df1d126a94f518e0ad19e9174d999658e6fd006")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnimalParkReimagined")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnimalParkReimagined")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

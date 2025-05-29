@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>53ox2usru7</Fingerprint>
-      <Integrity>MfL6Wd1/V4Yt7JiIMMggHKJKP/9JfsCgWcGc8ZzN+1M=</Integrity>
+      <Fingerprint>rb8ysnyvyo</Fingerprint>
+      <Integrity>WWm5OsGL3wKEXeyfhHUDrWFDg587IN6/q2DTfc770uI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\general.css'))</OriginalItemSpec>
@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>qzhx30ebso</Fingerprint>
-      <Integrity>VlxAalDyANkhwoTYxAVyKp+BdwyGHYMFXpvABlG0lLk=</Integrity>
+      <Fingerprint>llqwwxz2n7</Fingerprint>
+      <Integrity>V73G0fs9eqP4678ulCuVrqLYoZkD2iU3bQugTywFr60=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\logo.svg'))</OriginalItemSpec>

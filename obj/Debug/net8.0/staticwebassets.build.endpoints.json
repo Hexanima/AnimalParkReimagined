@@ -1,136 +1,19 @@
 {
   "Version": 1,
-  "Hash": "LejLPDpj0ov7vIagfxD/QwZsAgR8/09blsp8hiZO0lQ=",
-  "Source": "AnimalParkReimagined",
-  "BasePath": "_content/AnimalParkReimagined",
-  "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "AnimalParkReimagined\\wwwroot",
-      "Source": "AnimalParkReimagined",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\",
-      "BasePath": "_content/AnimalParkReimagined",
-      "Pattern": "**"
-    }
-  ],
-  "Assets": [
-    {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\css\\general.css",
-      "SourceId": "AnimalParkReimagined",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\",
-      "BasePath": "_content/AnimalParkReimagined",
-      "RelativePath": "css/general#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "rb8ysnyvyo",
-      "Integrity": "WWm5OsGL3wKEXeyfhHUDrWFDg587IN6/q2DTfc770uI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\general.css"
-    },
-    {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\css\\site.css",
-      "SourceId": "AnimalParkReimagined",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\",
-      "BasePath": "_content/AnimalParkReimagined",
-      "RelativePath": "css/site#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xudawhz6s5",
-      "Integrity": "V+c6BeWIrcnAQaxRkiYv/8+A+8xscyjmNT2Fjd/jJdk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\favicon.ico",
-      "SourceId": "AnimalParkReimagined",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\",
-      "BasePath": "_content/AnimalParkReimagined",
-      "RelativePath": "favicon#[.{fingerprint}]?.ico",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\image\\logo.svg",
-      "SourceId": "AnimalParkReimagined",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\",
-      "BasePath": "_content/AnimalParkReimagined",
-      "RelativePath": "image/logo#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "llqwwxz2n7",
-      "Integrity": "V73G0fs9eqP4678ulCuVrqLYoZkD2iU3bQugTywFr60=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\image\\logo.svg"
-    },
-    {
-      "Identity": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\js\\site.js",
-      "SourceId": "AnimalParkReimagined",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\",
-      "BasePath": "_content/AnimalParkReimagined",
-      "RelativePath": "js/site#[.{fingerprint}]?.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
-    }
-  ],
   "Endpoints": [
     {
       "Route": "css/general.css",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\css\\general.css",
+      "AssetFile": "css/general.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -147,10 +30,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 29 May 2025 22:11:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -162,12 +41,16 @@
     },
     {
       "Route": "css/general.rb8ysnyvyo.css",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\css\\general.css",
+      "AssetFile": "css/general.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -184,10 +67,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 29 May 2025 22:11:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -196,23 +75,27 @@
           "Value": "rb8ysnyvyo"
         },
         {
-          "Name": "label",
-          "Value": "css/general.css"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-WWm5OsGL3wKEXeyfhHUDrWFDg587IN6/q2DTfc770uI="
+        },
+        {
+          "Name": "label",
+          "Value": "css/general.css"
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\css\\site.css",
+      "AssetFile": "css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -229,10 +112,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 28 May 2025 22:42:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -244,12 +123,16 @@
     },
     {
       "Route": "css/site.xudawhz6s5.css",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\css\\site.css",
+      "AssetFile": "css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -266,10 +149,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 28 May 2025 22:42:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -278,23 +157,27 @@
           "Value": "xudawhz6s5"
         },
         {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-V+c6BeWIrcnAQaxRkiYv/8+A+8xscyjmNT2Fjd/jJdk="
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\favicon.ico",
+      "AssetFile": "favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -311,10 +194,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 28 May 2025 22:42:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -323,23 +202,27 @@
           "Value": "61n19gt1b8"
         },
         {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
         }
       ]
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\favicon.ico",
+      "AssetFile": "favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -356,10 +239,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 28 May 2025 22:42:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -371,12 +250,16 @@
     },
     {
       "Route": "image/logo.llqwwxz2n7.svg",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\image\\logo.svg",
+      "AssetFile": "image/logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -393,10 +276,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 29 May 2025 22:04:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -405,23 +284,27 @@
           "Value": "llqwwxz2n7"
         },
         {
-          "Name": "label",
-          "Value": "image/logo.svg"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-V73G0fs9eqP4678ulCuVrqLYoZkD2iU3bQugTywFr60="
+        },
+        {
+          "Name": "label",
+          "Value": "image/logo.svg"
         }
       ]
     },
     {
       "Route": "image/logo.svg",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\image\\logo.svg",
+      "AssetFile": "image/logo.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
         },
         {
           "Name": "Content-Length",
@@ -438,10 +321,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Thu, 29 May 2025 22:04:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
         }
       ],
       "EndpointProperties": [
@@ -453,12 +332,16 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\js\\site.js",
+      "AssetFile": "js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Length",
@@ -475,10 +358,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 28 May 2025 22:42:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
@@ -490,12 +369,16 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\js\\site.js",
+      "AssetFile": "js/site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
           "Name": "Accept-Ranges",
           "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Length",
@@ -512,10 +395,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Wed, 28 May 2025 22:42:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
@@ -524,12 +403,12 @@
           "Value": "xtxxf3hu2r"
         },
         {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
           "Name": "integrity",
           "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
         }
       ]
     }
