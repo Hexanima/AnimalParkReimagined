@@ -1,20 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Neo Nico\\Programacion\\Web\\Proyectos\\AnimalParkReimagined\\wwwroot\\css\\general.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\css\\general.css",
       "PackagePath": "staticwebassets\\css\\general.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Neo Nico\\Programacion\\Web\\Proyectos\\AnimalParkReimagined\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Neo Nico\\Programacion\\Web\\Proyectos\\AnimalParkReimagined\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Neo Nico\\Programacion\\Web\\Proyectos\\AnimalParkReimagined\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\image\\logo.svg",
+      "PackagePath": "staticwebassets\\image\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnimalParkReimagined.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AnimalParkReimagined.Microsoft.AspNetCore.StaticWebAssets.props",

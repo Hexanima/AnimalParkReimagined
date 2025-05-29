@@ -1,21 +1,51 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>@ViewData["Title"] - Animal Park Reimagined</title>
-    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <script src="https://kit.fontawesome.com/1db27a1d0e.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
 </head>
 <body>
-    <header>
-    </header>
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
+<header>
+    <div>
+        <img src="image/logo.svg" alt="Logo Animal Park"/>
+        <form><input name="searchInput" placeholder="Buscar..."/></form>
+        <div>
+        <i class="fa-solid fa-cart-shopping"></i>
+        <i class="fa-solid fa-circle-user"></i>
+        </div>
+    </div>
+    <nav>
+        <a>
+            Menu
+        </a>
+        <a>
+            Alimentos
+        </a>
+        <a>
+            Accesorios
+        </a>
+        <a>
+            Marcas
+        </a>
+        <a>
+            Ofertas
+        </a>
+    </nav>
+</header>
+<main role="main" class="pb-3">
+    @RenderBody()
+</main>
 
-    <footer>
-    </footer>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @await RenderSectionAsync("Scripts", required: false)
+<footer>
+    Un footer
+</footer>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "O+h4TWTcfFY=",
+  "dgSpecHash": "F56oVr29tBI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Neo Nico\\Programacion\\Web\\Proyectos\\AnimalParkReimagined\\AnimalParkReimagined.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Projects\\Personal\\AnimalParkReimagined\\AnimalParkReimagined.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.14\\microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.14\\microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.14\\microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

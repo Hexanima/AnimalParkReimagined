@@ -27,3 +27,35 @@ C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Proyectos\AnimalParkReimagine
 C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Proyectos\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.pdb
 C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Proyectos\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Neo Nico\Programacion\Web\Proyectos\AnimalParkReimagined\obj\Debug\net8.0\ref\AnimalParkReimagined.dll
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\appsettings.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\AnimalParkReimagined.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\AnimalParkReimagined.staticwebassets.endpoints.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\AnimalParkReimagined.exe
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\AnimalParkReimagined.deps.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\AnimalParkReimagined.runtimeconfig.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\AnimalParkReimagined.dll
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\bin\Debug\net8.0\AnimalParkReimagined.pdb
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.sourcelink.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\scopedcss\bundle\AnimalParkReimagined.styles.css
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets\msbuild.AnimalParkReimagined.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets\msbuild.AnimalParkReimagined.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets\msbuild.build.AnimalParkReimagined.props
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AnimalParkReimagined.props
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AnimalParkReimagined.props
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.dll
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\refint\AnimalParkReimagined.dll
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.pdb
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\AnimalParkReimagined.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Projects\Personal\AnimalParkReimagined\obj\Debug\net8.0\ref\AnimalParkReimagined.dll
