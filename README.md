@@ -25,7 +25,7 @@
 
 Este proyecto está dedicado a recrear en ASP.NET (C#) el proyecto integrador que realicé con mis compañeros durante mi cursada por Digital House y Fundacion Formar
 
-Enlace al repositorio: https://github.com/RamonBritez/Grupo_5_Animal_Park
+Enlace al repositorio del proyecto original: https://github.com/RamonBritez/Grupo_5_Animal_Park
 
 ## Proposito
 
